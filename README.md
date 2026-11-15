@@ -437,4 +437,4 @@ This project is not production-hardened. The main gaps:
  
 **Tushar Pandey**
  
-- GitHub: [@TusharPandeydev](https://github.com/TusharPandeydev
+- GitHub: [@TusharPandeydev](https://github.com/TusharPandeydev)
